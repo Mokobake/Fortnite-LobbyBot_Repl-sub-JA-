@@ -1,9 +1,0 @@
-pip
-aiohttp==3.6.3
-crayons
-discord.py==1.4.2
-git+https://github.com/gomashio1596/fortnitepy
-jaconv
-jinja2
-requests
-sanic
