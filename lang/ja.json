@@ -347,7 +347,7 @@
     "config_fortnite_interval": "招待を承諾してから次承諾するまでの時間",
     "config_fortnite_waitinterval": "waitコマンドで招待を拒否する秒数",
     "config_fortnite_hide-user": "パーティーに参加してきたユーザーを非表示にするか",
-    "config_fortnite_hide-blacklist": "''ブラックリストのユーザーを非表示にするか",
+    "config_fortnite_hide-blacklist": "↑と同じ:ブラックリストのユーザーを非表示にするか",
     "config_fortnite_show-owner": "所有者を非表示にしないか",
     "config_fortnite_show-whitelist": "ホワイトリストのユーザーを非表示にしないか",
     "config_fortnite_show-bot": "ボットを非表示にしないか",
