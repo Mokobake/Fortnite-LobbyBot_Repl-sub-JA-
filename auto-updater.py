@@ -227,9 +227,9 @@ def CheckUpdate(filename: str, githuburl: str, overwrite: bool = False) -> bool:
         return None
 
 if "-dev" in sys.argv:
-    githuburl = "https://raw.githubusercontent.com/gomashio1596/Fortnite-LobbyBot/Dev/"
+    githuburl = "https://raw.githubusercontent.com/Mokobake/Fortnite-LobbyBot_Repl-sub-JA-/Dev/"
 else:
-    githuburl = "https://raw.githubusercontent.com/gomashio1596/Fortnite-LobbyBot/master/"
+    githuburl = "https://raw.githubusercontent.com/Mokobake/Fortnite-LobbyBot_Repl-sub-JA-/master/"
 
 if CheckUpdate("auto-updater.py", githuburl):
     print("auto-updater.pyの更新を確認しました。アップデーターをもう一度起動します...")
