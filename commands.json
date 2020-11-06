@@ -1,0 +1,511 @@
+{
+    "true": [
+        "true",
+        "on",
+        "accept",
+        "有効",
+        "オン"
+    ],
+    "false": [
+        "false",
+        "off",
+        "decline",
+        "無効",
+        "オフ"
+    ],
+    "me": [
+        "me",
+        "自分"
+    ],
+    "prev": [
+        "prev",
+        "再コマ"
+    ],
+    "eval": [
+        "eval"
+    ],
+    "exec": [
+        "exec"
+    ],
+    "restart": [
+        "restart",
+        "再起動"
+    ],
+    "relogin": [
+        "relogin",
+        "再ログイン"
+    ],
+    "reload": [
+        "reload",
+        "再読み込み"
+    ],
+    "addblacklist": [
+        "addblacklist",
+        "追加ブラックリスト"
+    ],
+    "removeblacklist": [
+        "removeblacklist",
+        "削除ブラックリスト"
+    ],
+    "addwhitelist": [
+        "addwhitelist",
+        "追加ホワイトリスト"
+    ],
+    "removewhitelist": [
+        "removewhitelist",
+        "削除ホワイトリスト"
+    ],
+    "addblacklist_discord": [
+        "addblacklist2",
+        "追加ブラックリスト2"
+    ],
+    "removeblacklist_discord": [
+        "removeblacklist2",
+        "削除ブラックリスト2"
+    ],
+    "addwhitelist_discord": [
+        "addwhitelist2",
+        "追加ホワイトリスト2"
+    ],
+    "removewhitelist_discord": [
+        "removewhitelist2",
+        "削除ホワイトリスト2"
+    ],
+    "addinvitelist": [
+        "addinvitelist",
+        "追加招待リスト"
+    ],
+    "removeinvitelist": [
+        "removeinvitelist",
+        "削除招待リスト"
+    ],
+    "get": [
+        "get",
+        "取得"
+    ],
+    "friendcount": [
+        "friendcount",
+        "フレンド数"
+    ],
+    "pendingcount": [
+        "pendingcount",
+        "申請数"
+    ],
+    "blockcount": [
+        "blockcount",
+        "ブロック数"
+    ],
+    "friendlist": [
+        "friendlist",
+        "フレンドリスト"
+    ],
+    "pendinglist": [
+        "pendinglist",
+        "申請リスト"
+    ],
+    "blocklist": [
+        "blocklist",
+        "ブロックリスト"
+    ],
+    "outfitmimic": [
+        "skinmimic"
+    ],
+    "backpackmimic": [
+        "bagmimic"
+    ],
+    "pickaxemimic": [
+        "pickmimic"
+    ],
+    "emotemimic": [
+        "emotemimic"
+    ],
+    "whisper": [
+        "whisper",
+        "ささやき"
+    ],
+    "partychat": [
+        "partychat",
+        "パーティーチャット"
+    ],
+    "discord": [
+        "discord"
+    ],
+    "disablewhisperperfectly": [
+        "whisperperfect",
+        "ささやき無効"
+    ],
+    "disablepartychatperfectly": [
+        "partychatperfect",
+        "パーティーチャット無効"
+    ],
+    "disablediscordperfectly": [
+        "discordperfect"
+    ],
+    "acceptinvite": [
+        "acceptinvite",
+        "招待承諾"
+    ],
+    "acceptfriend": [
+        "acceptfriend",
+        "申請承諾"
+    ],
+    "joinmessageenable": [
+        "joinmessage",
+        "参加メッセージ"
+    ],
+    "randommessageenable": [
+        "randommessage",
+        "ランダムメッセージ"
+    ],
+    "wait": [
+        "wait",
+        "待つ"
+    ],
+    "join": [
+        "join",
+        "参加"
+    ],
+    "joinid": [
+        "joinid"
+    ],
+    "leave": [
+        "leave",
+        "抜ける"
+    ],
+    "invite": [
+        "invite",
+        "招待"
+    ],
+    "inviteall": [
+        "inviteall",
+        "全て招待"
+    ],
+    "message": [
+        "message",
+        "メッセージ"
+    ],
+    "partymessage": [
+        "partymessage",
+        "pmessage",
+        "パーティーメッセージ"
+    ],
+    "status": [
+        "status",
+        "ステータス"
+    ],
+    "banner": [
+        "banner",
+        "バナー"
+    ],
+    "level": [
+        "level",
+        "レベル"
+    ],
+    "bp": [
+        "bp"
+    ],
+    "privacy": [
+        "privacy",
+        "プライバシー"
+    ],
+    "privacy_public": [
+        "public",
+        "パブリック"
+    ],
+    "privacy_friends_allow_friends_of_friends": [
+        "friends_allow_friends_of_friends"
+    ],
+    "privacy_friends": [
+        "friends",
+        "フレンド"
+    ],
+    "privacy_private_allow_friends_of_friends": [
+        "private_allow_friends_of_friends"
+    ],
+    "privacy_private": [
+        "private",
+        "プライベート"
+    ],
+    "getuser": [
+        "getuser",
+        "取得ユーザー"
+    ],
+    "getfriend": [
+        "getfriend",
+        "取得フレンド"
+    ],
+    "getpending": [
+        "getpending",
+        "取得申請"
+    ],
+    "getblock": [
+        "getblock",
+        "取得ブロック"
+    ],
+    "info": [
+        "info",
+        "情報"
+    ],
+    "info_party": [
+        "party",
+        "パーティー情報"
+    ],
+    "pending": [
+        "pending",
+        "申請"
+    ],
+    "removepending": [
+        "removepending",
+        "申請削除"
+    ],
+    "addfriend": [
+        "add",
+        "フレンド申請"
+    ],
+    "removefriend": [
+        "remove",
+        "フレンド削除"
+    ],
+    "acceptpending": [
+        "accept",
+        "申請承諾"
+    ],
+    "declinepending": [
+        "decline"
+    ],
+    "blockfriend": [
+        "block",
+        "ブロック"
+    ],
+    "unblockfriend": [
+        "unblock",
+        "ブロック解除"
+    ],
+    "chatban": [
+        "ban",
+        "禁止"
+    ],
+    "promote": [
+        "promote",
+        "パーティーリーダー"
+    ],
+    "kick": [
+        "kick",
+        "キック"
+    ],
+    "ready": [
+        "ready",
+        "準備OK"
+    ],
+    "unready": [
+        "unready",
+        "準備"
+    ],
+    "sitout": [
+        "sitout",
+        "欠場"
+    ],
+    "match": [
+        "match",
+        "マッチ"
+    ],
+    "unmatch": [
+        "unmatch",
+        "マッチ解除"
+    ],
+    "swap": [
+        "swap",
+        "移動"
+    ],
+    "outfitlock": [
+        "skinlock",
+        "スキンロック"
+    ],
+    "backpacklock": [
+        "baglock",
+        "バッグロック"
+    ],
+    "pickaxelock": [
+        "picklock",
+        "ピッケルロック"
+    ],
+    "emotelock": [
+        "emotelock",
+        "エモートロック"
+    ],
+    "stop": [
+        "stop",
+        "停止"
+    ],
+    "alloutfit": [
+        "allskin",
+        "全てのスキン"
+    ],
+    "allbackpack": [
+        "allbag",
+        "全てのバッグ"
+    ],
+    "allpet": [
+        "allpet",
+        "全てのペット"
+    ],
+    "allpickaxe": [
+        "allpick",
+        "全てのピック"
+    ],
+    "allemote": [
+        "allemote",
+        "全てのエモート"
+    ],
+    "allemoji": [
+        "allemoji",
+        "全ての絵文字"
+    ],
+    "alltoy": [
+        "alltoy",
+        "全てのおもちゃ"
+    ],
+    "cid": [
+        "cid"
+    ],
+    "bid": [
+        "bid"
+    ],
+    "petcarrier": [
+        "petcarrier"
+    ],
+    "pickaxe_id": [
+        "pid"
+    ],
+    "eid": [
+        "eid"
+    ],
+    "emoji_id": [
+        "emoji_id"
+    ],
+    "toy_id": [
+        "toy_id"
+    ],
+    "id": [
+        "id"
+    ],
+    "outfit": [
+        "skin",
+        "スキン"
+    ],
+    "backpack": [
+        "bag",
+        "バッグ"
+    ],
+    "pet": [
+        "pet",
+        "ペット"
+    ],
+    "pickaxe": [
+        "pickaxe",
+        "ピッケル"
+    ],
+    "emote": [
+        "emote",
+        "エモート"
+    ],
+    "emoji": [
+        "emoji",
+        "絵文字"
+    ],
+    "toy": [
+        "toy",
+        "おもちゃ"
+    ],
+    "item": [
+        "item",
+        "アイテム"
+    ],
+    "set": [
+        "set",
+        "セット"
+    ],
+    "setvariant": [
+        "variant"
+    ],
+    "addvariant": [
+        "addvariant"
+    ],
+    "setstyle": [
+        "style",
+        "スタイル"
+    ],
+    "addstyle": [
+        "addstyle",
+        "スタイル追加"
+    ],
+    "setenlightenment": [
+        "enlight",
+        "エージェント"
+    ],
+    "web": [
+        "web"
+    ],
+    "sendall": [
+        "sendall"
+    ],
+    "removeallfriend": [
+        "removeallfriend",
+        "全てのフレンドを削除"
+    ],
+    "avatar": [
+        "avatar",
+        "アバター"
+    ],
+    "hide": [
+        "hide",
+        "非表示"
+    ],
+    "show": [
+        "show",
+        "表示"
+    ],
+    "addeditems": [
+        "addeditems",
+        "追加アイテム"
+    ],
+    "usercommands": [
+        "me",
+        "friendcount",
+        "stop",
+        "addeditems",
+        "cid",
+        "bid",
+        "petcarrier",
+        "pickaxe_id",
+        "eid",
+        "emoji_id",
+        "toy_id",
+        "id",
+        "outfit",
+        "backpack",
+        "pet",
+        "pickaxe",
+        "emote",
+        "emoji",
+        "toy",
+        "item",
+        "set",
+        "setvariant",
+        "addvariant",
+        "setstyle",
+        "addstyle",
+        "setenlightenment",
+        "item-search"
+    ],
+    "remove_offline_for": [
+        "remove_offline_for"
+    ],
+    "voice": [
+        "voice"
+    ],
+    "shopitems": [
+        "shopitems",
+        "ショップアイテム"
+    ]
+}
