@@ -134,7 +134,7 @@
     "search_max": 30,
     "no-logs": false,
     "ingame-error": true,
-    "discord-log": true,
+    "discord-log": false,
     "omit-over2000": true,
     "skip-if-overflow": false,
     "hide-email": true,
